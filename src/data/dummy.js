@@ -471,27 +471,12 @@ export const employeesGrid = [
 
 export const links = [
   {
-    title: 'Dashboard',
+    title: '',
     links: [
       {
-        name: 'home',
+        name: 'Dashboard',
         icon: <FiShoppingBag />,
       },
-    ],
-  },
-
-  {
-    title: 'Pages',
-    links: [
-      {
-        name: 'employees',
-        icon: <IoMdContacts />,
-      },
-    ],
-  },
-  {
-    title: 'Apps',
-    links: [
       {
         name: 'calendar',
         icon: <AiOutlineCalendar />,
@@ -499,6 +484,10 @@ export const links = [
       {
         name: 'kanban',
         icon: <BsKanban />,
+      },
+      {
+        name: 'employees',
+        icon: <IoMdContacts />,
       },
       {
         name: 'color-picker',
