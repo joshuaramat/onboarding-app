@@ -23,11 +23,11 @@ const Scheduler = () => {
 
   return (
     <div className="m-2 md:m-10 mt-24 p-2 md:p-10 bg-white rounded-3xl">
-      <Header category="App" title="Calendar" />
+      <Header category="App" title="Calendar" description="Double click a time to schedule an event."/>
       <ScheduleComponent
         height="650px"
         ref={(schedule) => setScheduleObj(schedule)}
-        selectedDate={new Date(2021, 0, 10)}
+        selectedDate={new Date()}
         eventSettings={{ dataSource: scheduleData }}
         dragStart={onDragStart}
       >
