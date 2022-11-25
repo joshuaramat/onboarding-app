@@ -45,7 +45,6 @@ const App = () => {
             >
               <Navbar />
             </div>
-          </div>
 
           <div>
             <Routes>
@@ -57,6 +56,7 @@ const App = () => {
               <Route path='/calendar' element={<Calendar />} />
             </Routes>
           </div>
+        </div>
         </div>
       </BrowserRouter>
     </div>
