@@ -47,6 +47,7 @@ const App = () => {
             </div>
 
           <div>
+            <ThemeSettings />
             <Routes>
               <Route path='/' element={<Dashboard />} />
               {/* Pages */}
