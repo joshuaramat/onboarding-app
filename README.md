@@ -1,11 +1,10 @@
 # Aide Onboarding App
-
-# Link
+### Link
 https://aide-onboarding.netlify.app/
 
 A web app built for onboarding new aides at Agile Physical Therapy that consolidates the tools and modules used to reduce the previous onboarding timeline by 66%
 
-# Current Features
+## Current Features
 * A fully-featured Calendar
 * Integrated Kanban board for tracking progress on aide projects
 
