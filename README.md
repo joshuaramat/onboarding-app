@@ -1,7 +1,7 @@
 # AIDEucate
 ## Aide Onboarding App, Agile Physical Therapy
 
-aideucate.netlify.app/
+https://aideucate.netlify.app/
 
 A web app built for onboarding new aides at Agile Physical Therapy that consolidates the tools and modules used to reduce the previous onboarding timeline by 66%
 
