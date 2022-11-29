@@ -1,4 +1,4 @@
-# AIDEucate
+# AIDEucate (Beta)
 ## Aide Onboarding App, Agile Physical Therapy
 
 https://aideucate.netlify.app/
@@ -8,6 +8,10 @@ A web app built for onboarding new aides at Agile Physical Therapy that consolid
 ## Current Features
 * A fully-featured Calendar
 * Integrated Kanban board for tracking progress on aide projects
+
+## Known bugs
+* Selected theme is not persistent (localStorage)
+* Employees and user profile components do not render
 
 ## Built With
 * React
